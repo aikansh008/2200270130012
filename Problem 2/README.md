@@ -31,7 +31,9 @@ A lightweight Express.js-based microservice to shorten long URLs. The shortened 
    ## Screenshots
 
    ### POST Response
-   ![Shortening of Instagram URL](https://drive.google.com/file/d/17YL_c_cJq0s37Kuga94yYM4Nk4PQYUA4/view?usp=drive_link)
+   Shortening of Instagram URL
+   https://drive.google.com/file/d/17YL_c_cJq0s37Kuga94yYM4Nk4PQYUA4/view?usp=drive_link
 
    ### Correlation 
-   ![Page Of Instagram](https://drive.google.com/file/d/1vyFvm7rBpK9HqA9JwDxJ6w-o2hVCq1NN/view?usp=drive_link)
+   Page Of Instagram
+   https://drive.google.com/file/d/1vyFvm7rBpK9HqA9JwDxJ6w-o2hVCq1NN/view?usp=drive_link
