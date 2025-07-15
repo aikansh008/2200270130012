@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+
+# Editor folders
+.vscode/
+.idea/
+
+# History folder (from VSCode extensions)
+.history/
+
+# Lock files (optional based on your package manager)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
