@@ -1,6 +1,7 @@
 require('dotenv').config();
 const express = require('express');
 const { logger, logError } = require('./middlewares/logger'); // <-- Fix: import both if needed
+const urlRoutes = require('./Routes/urlRoutes');
 const { registerApp } = require('./services/register'); // ✅ after fixing register.js
 
 const app = express();
